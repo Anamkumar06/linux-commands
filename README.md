@@ -1,4 +1,4 @@
-📄 Linux Commands Assignment (Template without Screenshots)
+📄 Linux Commands Assignment 
 Task 1: Creating and Renaming Files
 
 Commands:
